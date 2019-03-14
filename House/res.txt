@@ -1,0 +1,184 @@
+Found a solution:
+House0 国籍-挪威 颜色-黄 饮料-水   烟-dunhill    宠物-猫
+House1 国籍-丹麦 颜色-蓝 饮料-茶   烟-blends     宠物-马
+House2 国籍-英国 颜色-红 饮料-牛奶 烟-pallmall   宠物-鸟
+House3 国籍-德国 颜色-绿 饮料-咖啡 烟-prince     宠物-鱼
+House4 国籍-瑞典 颜色-白 饮料-啤酒 烟-bluemaster 宠物-狗
+Condition1	1174
+Condition2	424
+Condition3	3596
+Condition4	234
+Condition5	716
+Condition6	81
+Condition7	4490
+Condition8	161
+Condition9	82
+Condition10	7
+Condition11	3
+Condition12	890
+Condition13	157
+Condition14	117
+Condition15	19
+Total: 12151, Average: 810
+
+Found a solution:
+House0 国籍-挪威 颜色-绿 饮料-咖啡 烟-pallmall   宠物-鸟
+House1 国籍-德国 颜色-蓝 饮料-水   烟-prince     宠物-猫
+House2 国籍-英国 颜色-红 饮料-牛奶 烟-blends     宠物-马
+House3 国籍-丹麦 颜色-黄 饮料-茶   烟-dunhill    宠物-鱼
+House4 国籍-瑞典 颜色-白 饮料-啤酒 烟-bluemaster 宠物-狗
+Condition1	2447
+Condition2	514
+Condition3	5084
+Condition4	485
+Condition5	1013
+Condition6	97
+Condition7	5664
+Condition8	227
+Condition9	93
+Condition10	13
+Condition11	5
+Condition12	1134
+Condition13	206
+Condition14	245
+Condition15	25
+Total: 17252, Average: 1150
+
+Found a solution:
+House0 国籍-挪威 颜色-绿 饮料-咖啡 烟-pallmall   宠物-鸟
+House1 国籍-德国 颜色-蓝 饮料-水   烟-prince     宠物-鱼
+House2 国籍-英国 颜色-红 饮料-牛奶 烟-blends     宠物-马
+House3 国籍-丹麦 颜色-黄 饮料-茶   烟-dunhill    宠物-猫
+House4 国籍-瑞典 颜色-白 饮料-啤酒 烟-bluemaster 宠物-狗
+Condition1	2447
+Condition2	525
+Condition3	5084
+Condition4	485
+Condition5	1013
+Condition6	102
+Condition7	5664
+Condition8	227
+Condition9	93
+Condition10	18
+Condition11	8
+Condition12	1134
+Condition13	206
+Condition14	245
+Condition15	25
+Total: 17276, Average: 1151
+
+Found a solution:
+House0 国籍-挪威 颜色-绿 饮料-咖啡 烟-pallmall   宠物-鸟
+House1 国籍-德国 颜色-蓝 饮料-水   烟-prince     宠物-猫
+House2 国籍-瑞典 颜色-白 饮料-牛奶 烟-blends     宠物-狗
+House3 国籍-英国 颜色-红 饮料-啤酒 烟-bluemaster 宠物-马
+House4 国籍-丹麦 颜色-黄 饮料-茶   烟-dunhill    宠物-鱼
+Condition1	2684
+Condition2	991
+Condition3	5803
+Condition4	533
+Condition5	1157
+Condition6	193
+Condition7	6863
+Condition8	257
+Condition9	95
+Condition10	37
+Condition11	15
+Condition12	1374
+Condition13	248
+Condition14	269
+Condition15	29
+Total: 20548, Average: 1369
+
+Found a solution:
+House0 国籍-挪威 颜色-绿 饮料-咖啡 烟-blends     宠物-鱼
+House1 国籍-德国 颜色-蓝 饮料-水   烟-prince     宠物-猫
+House2 国籍-瑞典 颜色-黄 饮料-牛奶 烟-dunhill    宠物-狗
+House3 国籍-英国 颜色-红 饮料-啤酒 烟-bluemaster 宠物-马
+House4 国籍-丹麦 颜色-白 饮料-茶   烟-pallmall   宠物-鸟
+Condition1	2686
+Condition2	1307
+Condition3	5923
+Condition4	534
+Condition5	1181
+Condition6	261
+Condition7	7123
+Condition8	263
+Condition9	95
+Condition10	47
+Condition11	20
+Condition12	1427
+Condition13	262
+Condition14	270
+Condition15	32
+Total: 21431, Average: 1428
+
+Found a solution:
+House0 国籍-挪威 颜色-绿 饮料-咖啡 烟-pallmall   宠物-鸟
+House1 国籍-德国 颜色-蓝 饮料-水   烟-prince     宠物-猫
+House2 国籍-瑞典 颜色-白 饮料-牛奶 烟-blends     宠物-狗
+House3 国籍-丹麦 颜色-黄 饮料-茶   烟-dunhill    宠物-鱼
+House4 国籍-英国 颜色-红 饮料-啤酒 烟-bluemaster 宠物-马
+Condition1	2803
+Condition2	1352
+Condition3	6164
+Condition4	557
+Condition5	1229
+Condition6	266
+Condition7	7344
+Condition8	275
+Condition9	96
+Condition10	50
+Condition11	22
+Condition12	1470
+Condition13	272
+Condition14	281
+Condition15	33
+Total: 22214, Average: 1480
+
+Found a solution:
+House0 国籍-挪威 颜色-绿 饮料-咖啡 烟-pallmall   宠物-鸟
+House1 国籍-德国 颜色-蓝 饮料-水   烟-prince     宠物-鱼
+House2 国籍-瑞典 颜色-白 饮料-牛奶 烟-blends     宠物-狗
+House3 国籍-丹麦 颜色-黄 饮料-茶   烟-dunhill    宠物-猫
+House4 国籍-英国 颜色-红 饮料-啤酒 烟-bluemaster 宠物-马
+Condition1	2803
+Condition2	1368
+Condition3	6164
+Condition4	557
+Condition5	1229
+Condition6	270
+Condition7	7344
+Condition8	275
+Condition9	96
+Condition10	54
+Condition11	24
+Condition12	1470
+Condition13	272
+Condition14	281
+Condition15	33
+Total: 22240, Average: 1482
+
+TraceBack finished:
+House0 国籍-英国 颜色-红 饮料-茶   烟-pallmall   宠物-狗
+House1 国籍-瑞典 颜色-绿 饮料-咖啡 烟-blends     宠物-鸟
+House2 国籍-丹麦 颜色-白 饮料-牛奶 烟-dunhill    宠物-猫
+House3 国籍-挪威 颜色-黄 饮料-啤酒 烟-bluemaster 宠物-马
+House4 国籍-德国 颜色-蓝 饮料-水   烟-prince     宠物-鱼
+Condition1	2880
+Condition2	1680
+Condition3	6480
+Condition4	576
+Condition5	1296
+Condition6	336
+Condition7	7680
+Condition8	288
+Condition9	120
+Condition10	60
+Condition11	26
+Condition12	1536
+Condition13	288
+Condition14	288
+Condition15	36
+Total: 23570, Average: 1571
+
