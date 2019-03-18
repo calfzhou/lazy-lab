@@ -1,0 +1,12 @@
+# DFSS YueChe Requests File
+# Line starts with '#' is comment.
+# The 1st non-comment line should be DFSS user information, format:
+# UserID	PWD	SID(don't change this ID)
+# The 2nd non-comment line should be YueChe request(s), format:
+# YYYY-MM-DD:H	YYYY-MM-DD:H
+# Where H could be 7, 9, 13, 17, or 19.
+# Note that the delimiter between requests (and user information) is TAB(\t).
+
+
+# 12345678	asdf1234	ZUp6VHlDa3c1UEl4TkxRME5EWXpzRFEyTURjMk1EUXdNRFAzNFVyVUF3QmFud1lL
+# 2011-11-03:13
