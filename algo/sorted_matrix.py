@@ -43,6 +43,7 @@ def find_k_min(matrix, k):
     height = len(matrix)
     width = len(matrix[0])
     assert 1 <= k <= width * height
+    # TODO: 可以用大顶堆维护候选位置
     positions = {(0, height - 1)}
 
     for _ in xrange(k):
@@ -98,3 +99,15 @@ def demo():
             x, y = res
             if matrix[y][x] != value:
                 print 'Error: found', value, 'at', (x, y), '=', matrix[y][x]
+
+def main():
+    width = 8
+    height = 9
+    matrix = build_matrix(width, height)
+    print_matrix(matrix)
+    k = 20
+    k_min = find_k_min(matrix, k)
+    print 'min(matrix, %d) = %d' % (k, k_min)
+
+if __name__ == '__main__':
+    main()
